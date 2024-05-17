@@ -1,0 +1,14 @@
+D:\Programming Projects\DailyManager\SimpleTaskManager\bin\Debug\net8.0\SimpleTaskManager.exe
+D:\Programming Projects\DailyManager\SimpleTaskManager\bin\Debug\net8.0\SimpleTaskManager.deps.json
+D:\Programming Projects\DailyManager\SimpleTaskManager\bin\Debug\net8.0\SimpleTaskManager.runtimeconfig.json
+D:\Programming Projects\DailyManager\SimpleTaskManager\bin\Debug\net8.0\SimpleTaskManager.dll
+D:\Programming Projects\DailyManager\SimpleTaskManager\bin\Debug\net8.0\SimpleTaskManager.pdb
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.AssemblyInfoInputs.cache
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.AssemblyInfo.cs
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.csproj.CoreCompileInputs.cache
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.dll
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\refint\SimpleTaskManager.dll
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.pdb
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\SimpleTaskManager.genruntimeconfig.cache
+D:\Programming Projects\DailyManager\SimpleTaskManager\obj\Debug\net8.0\ref\SimpleTaskManager.dll
